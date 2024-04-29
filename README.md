@@ -15,4 +15,4 @@ Here I have used libraries like Chakra UI more polished and professional looking
 This project uses NodeJS backend and MongoDB to stock the stocks of user.
 
 You can check the project here:
-[Stock Analyzer](https://advanced-react-nse-analyzer.onrender.com) .
+[Stock Analyzer](https://react-stock-analyzer.onrender.com) .
